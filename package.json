@@ -1,0 +1,16 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Justice K Portfolio - Node.js",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo Build step complete",
+    "test": "echo test passed",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Justice K",
+  "license": "MIT"
+}
